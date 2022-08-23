@@ -1,0 +1,16 @@
+{
+  "home": "首页",
+  "about": "关于我们",
+  "contact": "联络我们",
+  "login": "登入",
+  "username": "用户名称",
+  "password": "密码",
+  "send": "寄出",
+  "email": "电邮",
+  "name": "姓名",
+  "content": "內容",
+  "validation": {
+    "this_field_is_required": "这是必填栏",
+    "email_is_invalid": "电邮无效"
+  }
+}

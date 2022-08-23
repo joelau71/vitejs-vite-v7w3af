@@ -1,0 +1,16 @@
+{
+  "home": "Home",
+  "about": "About Us",
+  "contact": "Contact Us",
+  "login": "Login",
+  "username": "Username",
+  "password": "Password",
+  "send": "Send",
+  "email": "Email",
+  "name": "Name",
+  "content": "Content",
+  "validation": {
+    "this_field_is_required": "This field is required",
+    "email_is_invalid": "Email is invalid"
+  }
+}

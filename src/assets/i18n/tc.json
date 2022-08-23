@@ -1,0 +1,16 @@
+{
+  "home": "首頁",
+  "about": "關於我們",
+  "contact": "聯絡我們",
+  "login": "登入",
+  "username": "用戶名稱",
+  "password": "密碼",
+  "send": "寄出",
+  "email": "電郵",
+  "name": "姓名",
+  "content": "內容",
+  "validation": {
+    "this_field_is_required": "這是必填欄",
+    "email_is_invalid": "電郵無效"
+  }
+}
