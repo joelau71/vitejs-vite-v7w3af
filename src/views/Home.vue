@@ -27,20 +27,17 @@ const collection = [
   {
     title: 'Titl 1',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum officiis sint aliquam expedita illo facere! Doloremque odio impedit, quis quos, rerum, deleniti harum non dolorum veritatis eaque minus odit voluptas!',
-    image:
-      'https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80',
+    image: 'https://source.unsplash.com/1920x940/?food&sig=1',
   },
   {
     title: 'Titl 2',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum officiis sint aliquam expedita illo facere! Doloremque odio impedit, quis quos, rerum, deleniti harum non dolorum veritatis eaque minus odit voluptas!',
-    image:
-      'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80',
+    image: 'https://source.unsplash.com/1920x940/?food&sig=2',
   },
   {
     title: 'Titl 3',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum officiis sint aliquam expedita illo facere! Doloremque odio impedit, quis quos, rerum, deleniti harum non dolorum veritatis eaque minus odit voluptas!',
-    image:
-      'https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80',
+    image: 'https://source.unsplash.com/1920x940/?food&sig=3',
   },
 ];
 
